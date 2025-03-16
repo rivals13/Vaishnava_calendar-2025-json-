@@ -1,0 +1,904 @@
+{
+  "January": [
+    {
+      "date": "02 Jan 2025",
+      "event": "Disappearance Day of Sri Jiva Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "02 Jan 2025",
+      "event": "Disappearance Day of Sri Jagadisa Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "10 Jan 2025",
+      "event": "Putrada Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "11 Jan 2025",
+      "event": "Appearance Day of Sri Jagadisa Pandita",
+      "type": "Appearance"
+    },
+    {
+      "date": "13 Jan 2025",
+      "event": "Sri Krishna Pushya Abhishek",
+      "type": "Festival"
+    },
+    {
+      "date": "15 Jan 2025",
+      "event": "Ganga Sagar Mela",
+      "type": "Festival"
+    },
+    {
+      "date": "15 Jan 2025",
+      "event": "Makara Sankranti",
+      "type": "Festival"
+    },
+    {
+      "date": "18 Jan 2025",
+      "event": "Appearance Day of Srila Gopala Bhatta Goswami",
+      "type": "Appearance"
+    },
+    {
+      "date": "18 Jan 2025",
+      "event": "Disappearance Day of Sri Ramchandra Kaviraja",
+      "type": "Disappearance"
+    },
+    {
+      "date": "20 Jan 2025",
+      "event": "Disappearance Day of Sri Jayadev Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "21 Jan 2025",
+      "event": "Disappearance Day of Sri Locana Dasa Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "25 Jan 2025",
+      "event": "Sat-tila Ekadashi",
+      "type": "Ekadashi"
+    }
+  ],
+  "February": [
+    {
+      "date": "03 Feb 2025",
+      "event": "Vasanta Pancami",
+      "type": "Festival"
+    },
+    {
+      "date": "03 Feb 2025",
+      "event": "Appearance Day of Srimati Vishnupriya Devi",
+      "type": "Appearance"
+    },
+    {
+      "date": "03 Feb 2025",
+      "event": "Sarasvati Puja",
+      "type": "Festival"
+    },
+    {
+      "date": "03 Feb 2025",
+      "event": "Disappearance Day of Srila Visvanatha Cakravarti Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "03 Feb 2025",
+      "event": "Appearance Day of Sri Pundarika Vidyanidhi",
+      "type": "Appearance"
+    },
+    {
+      "date": "03 Feb 2025",
+      "event": "Appearance Day of Sri Raghunandan Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "03 Feb 2025",
+      "event": "Appearance Day of Srila Raghunatha Dasa Goswami",
+      "type": "Appearance"
+    },
+    {
+      "date": "04 Feb 2025",
+      "event": "Appearance Day of Sri Advaita Acharya",
+      "type": "Appearance"
+    },
+    {
+      "date": "05 Feb 2025",
+      "event": "Bhismastami",
+      "type": "Festival"
+    },
+    {
+      "date": "06 Feb 2025",
+      "event": "Disappearance Day of Sri Madhvacharya",
+      "type": "Disappearance"
+    },
+    {
+      "date": "07 Feb 2025",
+      "event": "Disappearance Day of Sri Ramanujacharya",
+      "type": "Disappearance"
+    },
+    {
+      "date": "08 Feb 2025",
+      "event": "Bhaimi Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "09 Feb 2025",
+      "event": "Varaha Dvadasi",
+      "type": "Festival"
+    },
+    {
+      "date": "10 Feb 2025",
+      "event": "Nityananda Triyodasi – Appearance Day of Nityananda",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 Feb 2025",
+      "event": "Sri Krishna Madhura Utsava",
+      "type": "Festival"
+    },
+    {
+      "date": "12 Feb 2025",
+      "event": "Appearance Day of Srila Narottama Dasa Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "17 Feb 2025",
+      "event": "Appearance Day of Srila Bhaktisiddhanta Sarasvati Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "17 Feb 2025",
+      "event": "Disappearance Day of Sri Purusottama Dasa Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "17 Feb 2025",
+      "event": "Disappearance Day of Srila Gour Govinda Swami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "24 Feb 2025",
+      "event": "Vijaya Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "25 Feb 2025",
+      "event": "Disappearance Day of Sri Isvara Puri",
+      "type": "Disappearance"
+    },
+    {
+      "date": "27 Feb 2025",
+      "event": "Siva Ratri",
+      "type": "Festival"
+    },
+    {
+      "date": "28 Feb 2025",
+      "event": "Disappearance Day of Srila Jagannatha Dasa Babaji",
+      "type": "Disappearance"
+    },
+    {
+      "date": "28 Feb 2025",
+      "event": "Disappearance Day of Sri Rasikananda",
+      "type": "Disappearance"
+    }
+  ],
+  "March": [
+    {
+      "date": "03 Mar 2025",
+      "event": "Appearance Day of Sri Purusottama Dasa Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "10 Mar 2025",
+      "event": "Amalaki Vrata Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "11 Mar 2025",
+      "event": "Disappearance of Sri Madhavendra Puri",
+      "type": "Disappearance"
+    },
+    {
+      "date": "14 Mar 2025",
+      "event": "Gaura Purnima - Appearance of Sri Gauranga Mahaprabhu",
+      "type": "Appearance"
+    },
+    {
+      "date": "15 Mar 2025",
+      "event": "Festival of Jagannatha Misra",
+      "type": "Festival"
+    },
+    {
+      "date": "22 Mar 2025",
+      "event": "Appearance Day of Sri Srivasa Pandita",
+      "type": "Appearance"
+    },
+    {
+      "date": "26 Mar 2025",
+      "event": "Papamochani Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "26 Mar 2025",
+      "event": "Disappearance Day of Sri Govinda Ghosh",
+      "type": "Disappearance"
+    }
+  ],
+  "April": [
+    {
+      "date": "02 April 2025",
+      "event": "Appearance Day of Sri Ramanujacharya",
+      "type": "Appearance"
+    },
+    {
+      "date": "06 April 2025",
+      "event": "Rama Navami",
+      "type": "Festival"
+    },
+    {
+      "date": "08 April 2025",
+      "event": "Kamada Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "09 April 2025",
+      "event": "Damanaka Ropana Dvadasi",
+      "type": "Festival"
+    },
+    {
+      "date": "12 April 2025",
+      "event": "Sri Balarama Rasayatra",
+      "type": "Festival"
+    },
+    {
+      "date": "12 April 2025",
+      "event": "Sri Krishna Vasanta Rasa",
+      "type": "Festival"
+    },
+    {
+      "date": "12 April 2025",
+      "event": "Appearance Day of Sri Vamsivadananda Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 April 2025",
+      "event": "Appearance Day of Sri Syamananda Prabhu",
+      "type": "Appearance"
+    },
+    {
+      "date": "14 April 2025",
+      "event": "Beginning of Salagrama and Tulasi Jala Dana",
+      "type": "Festival"
+    },
+    {
+      "date": "20 April 2025",
+      "event": "Disappearance Day of Sri Abhirama Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "23 April 2025",
+      "event": "Disappearance Day of Srila Vrndavana Dasa Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "24 April 2025",
+      "event": "Varuthini Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "27 April 2025",
+      "event": "Appearance Day of Sri Gadadhara Pandita",
+      "type": "Appearance"
+    },
+    {
+      "date": "30 April 2025",
+      "event": "Aksaya Tritya – Candana Yatra Starts",
+      "type": "Festival"
+    }
+  ],
+  "May": [
+    {
+      "date": "02 May 2025",
+      "event": "Appearance Day of Sri Sankaracharya",
+      "type": "Appearance"
+    },
+    {
+      "date": "04 May 2025",
+      "event": "Jahnu Saptami",
+      "type": "Festival"
+    },
+    {
+      "date": "06 May 2025",
+      "event": "Appearance Day of Srimati Sita Devi",
+      "type": "Appearance"
+    },
+    {
+      "date": "06 May 2025",
+      "event": "Disappearance Day of Sri Madhu Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "06 May 2025",
+      "event": "Appearance Day of Srimati Jahnava Devi",
+      "type": "Appearance"
+    },
+    {
+      "date": "08 May 2025",
+      "event": "Mohini Ekadasi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "09 May 2025",
+      "event": "Rukmini Dvadasi",
+      "type": "Festival"
+    },
+    {
+      "date": "10 May 2025",
+      "event": "Disappearance Day of Sri Jayananda Prabhu",
+      "type": "Disappearance"
+    },
+    {
+      "date": "11 May 2025",
+      "event": "Narasimha Caturdasi – Appearance of Lord Narasimhadeva",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 May 2025",
+      "event": "Krishna Phula Dola, Salila Vihara",
+      "type": "Festival"
+    },
+    {
+      "date": "12 May 2025",
+      "event": "Appearance Day of Sri Sri Radha-Ramana Devji",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 May 2025",
+      "event": "Buddha Purnima – Appearance Day of Lord Buddha",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 May 2025",
+      "event": "Appearance Day of Sri Madhavendra Puri",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 May 2025",
+      "event": "Appearance Day of Sri Srinivasa Acharya",
+      "type": "Appearance"
+    },
+    {
+      "date": "12 May 2025",
+      "event": "Disappearance Day of Sri Paramesvari Dasa Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "14 May 2025",
+      "event": "End of Jala Dana",
+      "type": "Festival"
+    },
+    {
+      "date": "17 May 2025",
+      "event": "Disappearance Day of Sri Ramananda Raya",
+      "type": "Disappearance"
+    },
+    {
+      "date": "23 May 2025",
+      "event": "Apara Ekadasi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "24 May 2025",
+      "event": "Appearance Day of Srila Vrndavana Dasa Thakura",
+      "type": "Appearance"
+    }
+  ],
+  "June": [
+    {
+      "date": "05 June 2025",
+      "event": "Ganga Puja",
+      "type": "Festival"
+    },
+    {
+      "date": "05 June 2025",
+      "event": "Disappearance Day of Sri Baladeva Vidyabhusana",
+      "type": "Disappearance"
+    },
+    {
+      "date": "05 June 2025",
+      "event": "Appearance Day of Srimati Gangamata Goswami",
+      "type": "Appearance"
+    },
+    {
+      "date": "07 June 2025",
+      "event": "Pandava Nirjala Mahadvadashi",
+      "type": "Festival"
+    },
+    {
+      "date": "09 June 2025",
+      "event": "Panihati Cida Dahi Utsava",
+      "type": "Festival"
+    },
+    {
+      "date": "11 June 2025",
+      "event": "Snana Yatra",
+      "type": "Festival"
+    },
+    {
+      "date": "11 June 2025",
+      "event": "Disappearance Day of Sri Mukunda Datta",
+      "type": "Disappearance"
+    },
+    {
+      "date": "11 June 2025",
+      "event": "Disappearance Day of Sri Sridhara Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "12 June 2025",
+      "event": "Disappearance Day of Sri Syamananda Prabhu",
+      "type": "Disappearance"
+    },
+    {
+      "date": "16 June 2025",
+      "event": "Appearance Day of Sri Vakresvara Pandita",
+      "type": "Appearance"
+    },
+    {
+      "date": "21 June 2025",
+      "event": "Disappearance Day of Sri Srivasa Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "22 June 2025",
+      "event": "Yogini Ekadasi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "25 June 2025",
+      "event": "Disappearance Day of Sri Gadadhara Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "25 June 2025",
+      "event": "Disappearance Day of Srila Bhaktivinoda Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "26 June 2025",
+      "event": "Gundica Marjana",
+      "type": "Festival"
+    },
+    {
+      "date": "27 June 2025",
+      "event": "Ratha Yatra Starts",
+      "type": "Festival"
+    },
+    {
+      "date": "27 June 2025",
+      "event": "Disappearance Day of Sri Svarupa Damodara Gosvami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "27 June 2025",
+      "event": "Disappearance Day of Sri Sivananda Sena",
+      "type": "Disappearance"
+    },
+    {
+      "date": "30 June 2025",
+      "event": "Hera Pancami",
+      "type": "Festival"
+    }
+  ],
+  "August": [
+    {
+      "date": "05 Aug 2025",
+      "event": "Pavitropana Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "05 Aug 2025",
+      "event": "Radha Govinda Jhulan Yatra Begins",
+      "type": "Festival"
+    },
+    {
+      "date": "06 Aug 2025",
+      "event": "Disappearance Day of Srila Rupa Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "06 Aug 2025",
+      "event": "Disappearance Day of Sri Gauridasa Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "09 Aug 2025",
+      "event": "Jhulan Yatra Ends",
+      "type": "Festival"
+    },
+    {
+      "date": "09 Aug 2025",
+      "event": "Appearance Day of Lord Balarama",
+      "type": "Appearance"
+    },
+    {
+      "date": "10 Aug 2025",
+      "event": "Second Month of Caturmasya Begins",
+      "type": "Festival"
+    },
+    {
+      "date": "10 Aug 2025",
+      "event": "Srila Prabhupada’s Departure for the USA",
+      "type": "Festival"
+    },
+    {
+      "date": "16 Aug 2025",
+      "event": "Sri Krsna Janmastami",
+      "type": "Festival"
+    },
+    {
+      "date": "17 Aug 2025",
+      "event": "Nandotsava",
+      "type": "Festival"
+    },
+    {
+      "date": "17 Aug 2025",
+      "event": "Appearance Day of Srila Prabhupada",
+      "type": "Appearance"
+    },
+    {
+      "date": "19 Aug 2025",
+      "event": "Annada Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "28 Aug 2025",
+      "event": "Srimati Sita Thakurani Appearance Day",
+      "type": "Appearance"
+    },
+    {
+      "date": "31 Aug 2025",
+      "event": "Radhastami : Appearance of Srimati Radharani",
+      "type": "Appearance"
+    }
+  ],
+  "September": [
+    {
+      "date": "03 Sept 2025",
+      "event": "Parsva Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "04 Sept 2025",
+      "event": "Sri Vamana Dwadashi : Appearance of Sri Vamana Deva",
+      "type": "Appearance"
+    },
+    {
+      "date": "04 Sept 2025",
+      "event": "Appearance Day of Sri Jiva Goswami",
+      "type": "Appearance"
+    },
+    {
+      "date": "05 Sept 2025",
+      "event": "Appearance Day of Srila Bhaktivinoda Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "06 Sept 2025",
+      "event": "Ananta Caturdasi Vrata : Appearance Day of Padmanabha",
+      "type": "Appearance"
+    },
+    {
+      "date": "06 Sept 2025",
+      "event": "Disappearance Day of Srila Haridasa Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "07 Sept 2025",
+      "event": "Sri Visvarupa Mahotsava",
+      "type": "Festival"
+    },
+    {
+      "date": "07 Sept 2025",
+      "event": "Acceptance of Sannyasa by Srila Prabhupada",
+      "type": "Festival"
+    },
+    {
+      "date": "08 Sept 2025",
+      "event": "Third Month of Caturmasya Begins",
+      "type": "Festival"
+    },
+    {
+      "date": "14 Sept 2025",
+      "event": "Srila Prabhupada’s arrival in the USA",
+      "type": "Festival"
+    },
+    {
+      "date": "17 Sept 2025",
+      "event": "Indira Ekadasi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "29 Sept 2025",
+      "event": "Durga Puja",
+      "type": "Festival"
+    }
+  ],
+  "October": [
+    {
+      "date": "02 Oct 2025",
+      "event": "Ramacandra Vijayotsava",
+      "type": "Festival"
+    },
+    {
+      "date": "02 Oct 2025",
+      "event": "Appearance Day of Sri Madhvacharya",
+      "type": "Appearance"
+    },
+    {
+      "date": "03 Oct 2025",
+      "event": "Pasankusa Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "04 Oct 2025",
+      "event": "Disappearance Day of Srila Raghunatha Dasa Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "04 Oct 2025",
+      "event": "Disappearance Day of Srila Raghunatha Bhatta Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "04 Oct 2025",
+      "event": "Disappearance Day of Srila Krsnadasa Kaviraja Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "07 Oct 2025",
+      "event": "Sri Krsna Saradiya Rasayatra",
+      "type": "Festival"
+    },
+    {
+      "date": "07 Oct 2025",
+      "event": "Laksmi Puja",
+      "type": "Festival"
+    },
+    {
+      "date": "07 Oct 2025",
+      "event": "Disappearance Day of Sri Murari Gupta",
+      "type": "Disappearance"
+    },
+    {
+      "date": "08 Oct 2025",
+      "event": "Fourth Month of Caturmasya Begins",
+      "type": "Festival"
+    },
+    {
+      "date": "11 Oct 2025",
+      "event": "Disappearance Day of Srila Narottama Dasa Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "14 Oct 2025",
+      "event": "Appearance Day of Radha Kunda, Snana Dana",
+      "type": "Appearance"
+    },
+    {
+      "date": "14 Oct 2025",
+      "event": "Bahulastami",
+      "type": "Festival"
+    },
+    {
+      "date": "15 Oct 2025",
+      "event": "Appearance Day of Virabhadra",
+      "type": "Appearance"
+    },
+    {
+      "date": "18 Oct 2025",
+      "event": "Rama Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "21 Oct 2025",
+      "event": "Dipa Dana, Dipavali, (Kali Puja)",
+      "type": "Festival"
+    },
+    {
+      "date": "22 Oct 2025",
+      "event": "Bali Daityaraja Puja",
+      "type": "Festival"
+    },
+    {
+      "date": "22 Oct 2025",
+      "event": "Appearance Day of Rasikananda",
+      "type": "Appearance"
+    },
+    {
+      "date": "22 Oct 2025",
+      "event": "Govardhana Puja, Go Puja, or Go-krda",
+      "type": "Festival"
+    },
+    {
+      "date": "23 Oct 2025",
+      "event": "Disappearance Day of Sri Vasudeva Ghosh",
+      "type": "Disappearance"
+    },
+    {
+      "date": "25 Oct 2025",
+      "event": "Disappearance Day of Srila Prabhupada",
+      "type": "Disappearance"
+    },
+    {
+      "date": "30 Oct 2025",
+      "event": "Gopastami, Gosthastami",
+      "type": "Festival"
+    },
+    {
+      "date": "30 Oct 2025",
+      "event": "Disappearance Day of Sri Gadadhara Dasa Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "30 Oct 2025",
+      "event": "Disappearance Day of Sri Dhananjaya Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "30 Oct 2025",
+      "event": "Disappearance Day of Sri Srinivasa Acharya",
+      "type": "Disappearance"
+    },
+    {
+      "date": "31 Oct 2025",
+      "event": "Jagaddhatri Puja",
+      "type": "Festival"
+    }
+  ],
+  "November": [
+    {
+      "date": "02 Nov 2025",
+      "event": "Utthana Mahadvadashi",
+      "type": "Festival"
+    },
+    {
+      "date": "02 Nov 2025",
+      "event": "Disappearance Day of Srila Gaura Kisora Dasa Babaji Maharaja",
+      "type": "Disappearance"
+    },
+    {
+      "date": "02 Nov 2025",
+      "event": "Bhisma Pancaka",
+      "type": "Festival"
+    },
+    {
+      "date": "04 Nov 2025",
+      "event": "Disappearance Day of Sri Bhugarbha Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "04 Nov 2025",
+      "event": "Disappearance Day of Sri Kasisvara Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "05 Nov 2025",
+      "event": "Sri Krsna Rasayatra",
+      "type": "Festival"
+    },
+    {
+      "date": "05 Nov 2025",
+      "event": "Tulasi-Saligram Vivaha",
+      "type": "Festival"
+    },
+    {
+      "date": "05 Nov 2025",
+      "event": "Appearance Day of Sri Nimbarkacharya",
+      "type": "Appearance"
+    },
+    {
+      "date": "05 Nov 2025",
+      "event": "Last Day of Caturmasya",
+      "type": "Festival"
+    },
+    {
+      "date": "06 Nov 2025",
+      "event": "Katyayani Vrata Begins",
+      "type": "Festival"
+    },
+    {
+      "date": "15 Nov 2025",
+      "event": "Utpanna Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "15 Nov 2025",
+      "event": "Disappearance Day of Sri Narahari Sarakara Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "16 Nov 2025",
+      "event": "Disappearance Day of Sri Kaliya Krsnadasa",
+      "type": "Disappearance"
+    },
+    {
+      "date": "17 Nov 2025",
+      "event": "Disappearance Day of Sri Saranga Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "26 Nov 2025",
+      "event": "Odana Sasthi",
+      "type": "Festival"
+    }
+  ],
+  "December": [
+    {
+      "date": "01 Dec 2025",
+      "event": "Advent of Srimad Bhagavat Gita",
+      "type": "Festival"
+    },
+    {
+      "date": "01 Dec 2025",
+      "event": "Moksada Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "04 Dec 2025",
+      "event": "Katyayani Vrata Ends",
+      "type": "Festival"
+    },
+    {
+      "date": "08 Dec 2025",
+      "event": "Disappearance Day of Srila Bhaktisiddhanta Sarasvati Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "15 Dec 2025",
+      "event": "Disappearance Day of Sri Devananda Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "16 Dec 2025",
+      "event": "Saphala Mahadvadasi",
+      "type": "Festival"
+    },
+    {
+      "date": "17 Dec 2025",
+      "event": "Disappearance Day of Sri Mahesa Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "17 Dec 2025",
+      "event": "Disappearance Day of Sri Uddharana Datta Thakura",
+      "type": "Disappearance"
+    },
+    {
+      "date": "21 Dec 2025",
+      "event": "Appearance Day of Sri Lochana Dasa Thakura",
+      "type": "Appearance"
+    },
+    {
+      "date": "23 Dec 2025",
+      "event": "Disappearance Day of Sri Jiva Goswami",
+      "type": "Disappearance"
+    },
+    {
+      "date": "23 Dec 2025",
+      "event": "Disappearance Day of Sri Jagadisa Pandita",
+      "type": "Disappearance"
+    },
+    {
+      "date": "31 Dec 2025",
+      "event": "Putrada Ekadashi",
+      "type": "Ekadashi"
+    },
+    {
+      "date": "31 Dec 2025",
+      "event": "Appearance Day of Sri Jagadisa Pandita",
+      "type": "Appearance"
+    }
+  ]
+}
